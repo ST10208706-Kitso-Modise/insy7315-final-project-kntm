@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377028422239",
+    "project_id": "khulongtechnologies",
+    "storage_bucket": "khulongtechnologies.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377028422239:android:f45732d5eae4fd0056c9ea",
+        "android_client_info": {
+          "package_name": "com.example.kulongtechnologies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJLrXIaXkuzbFIshJABaR0rfRuf7VHX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
